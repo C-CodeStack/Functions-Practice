@@ -1,43 +1,45 @@
-module.exports = example = (num) => {
+const example = (num) => {
   return
 }
 
-module.exports = problem1 = (num) => {
+const problem1 = (num) => {
   return 
 }
 
-module.exports = problem2 = (num) => {
+const problem2 = (num) => {
   return 
 }
 
-module.exports = problem3 = (numbers) => {
+const problem3 = (numbers) => {
   return 
 }
 
-module.exports = problem4 = (word) => {
+const problem4 = (word) => {
   return 
 }
 
-module.exports = problem5 = (num1, num2) => {
+const problem5 = (num1, num2) => {
   return 
 }
 
-module.exports = problem6 = (num) => {
+const problem6 = (num) => {
   return 
 }
 
-module.exports = problem7 = (side, radius) => {
+const problem7 = (side, radius) => {
   return 
 }
 
-module.exports = problem8 = (two, three) => {
+const problem8 = (two, three) => {
   return 
 }
 
-module.exports = problem9 = (num1, num2) => {
+const problem9 = (num1, num2) => {
   return 
 }
 
-module.exports = problem10 = (num1, num2) => {
+const problem10 = (num1, num2) => {
   return 
 }
+
+module.exports = { example, problem1, problem2, problem3, problem4, problem5, problem6, problem7, problem8, problem9, problem10 }
