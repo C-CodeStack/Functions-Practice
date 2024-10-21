@@ -27,7 +27,7 @@ You now have the code to complete the example but your example code is currently
 
 ```javascript
 module.exports = example = (num) => {
-  return add1(5) + subtract1(5)
+  return add1(num) + subtract1(num)
 }
 ```
 
