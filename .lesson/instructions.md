@@ -129,6 +129,7 @@ hints:
 given two numbers return if they are both divisible by 5. Use at least 1 helper function
 
 example: (5,25) -> true
+
 example: (11,35) -> false
 
 hints:
